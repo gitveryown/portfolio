@@ -22,3 +22,5 @@ iconBox.addEventListener('mouseout', () => {
 	email.setAttribute('src', 'images/inbox photo.jpg');
 	resume.setAttribute('src', 'images/icons/005-profile-1.png');
 });
+
+
